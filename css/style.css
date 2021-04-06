@@ -1,0 +1,21 @@
+body {
+    background: #e6e6e6;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    text-align: center;
+}
+
+header {
+    margin: auto;
+    background-color: #f7b600;
+    color: #ffffff;
+}
+
+nav a {
+ text-decoration: none;
+ color: #ffffff;
+ margin: 10px;
+}
+
+#logo span {
+    color: #4e4e4e;
+}
