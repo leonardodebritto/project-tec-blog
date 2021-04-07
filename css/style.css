@@ -80,3 +80,9 @@ footer {
     background-color: #ccc;
 }
 
+.post {
+    padding: 20px 0 0 20px;
+    margin-bottom: 20px;
+    background: #fff;
+}
+
